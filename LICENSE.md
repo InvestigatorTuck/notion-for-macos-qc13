@@ -1,4 +1,4 @@
-
+professional Extension for Notion for macOS - widgets and custom shortcuts offers the most advanced Notion for macOS extension, with widgets and custom shortcuts. Ideal for
 
 
 
